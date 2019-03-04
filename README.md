@@ -4,4 +4,4 @@ You can download the dataset and json file that contains labels from here
 https://bdd-data.berkeley.edu/
 
 Originally Yolov3 has 9 anchor boxes and default image size is 608x608.You can adapt it to your own dataset.
-For any issues pleas let me know 
+For any issues please let me know 
